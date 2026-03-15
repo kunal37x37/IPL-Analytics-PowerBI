@@ -47,8 +47,6 @@ https://www.kaggle.com/code/arbazkhan971/indian-premier-league-analysis-2008-202
 
 (Add your Power BI dashboard screenshot here)
 
-Example:
-![IPL Dashboard](Dashboard_Screenshot.png)
 
 ---
 
