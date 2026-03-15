@@ -56,8 +56,8 @@ https://www.kaggle.com/code/arbazkhan971/indian-premier-league-analysis-2008-202
 ### One Match Analysis
 ![One Match](IPL_Dashbord_result_images/ipl_onematch_data_2025.png)
 
-### Virat Kohli Analysis
-![Virat Kohli](IPL_Dashbord_result_images/ipl_virat kohli_data_2025.png)
+### Virat Kohli data Analysis
+![Virat Kohli](IPL_Dashbord_result_images/ipl_virat_kohli_data_2025.png)
 
 ---
 
