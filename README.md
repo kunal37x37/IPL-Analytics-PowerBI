@@ -45,11 +45,7 @@ https://www.kaggle.com/code/arbazkhan971/indian-premier-league-analysis-2008-202
 
 ## Dashboard Preview
 
-(Add your Power BI dashboard screenshot here)
-| Register Page| Login page |
-|------------|----------------|
-| <img width="1123" height="639" alt="image" src="https://github.com/user-attachments/assets/11a50676-6dd3-437d-ae6f-fd569f40ddb0" /> | <img width="1032" height="545" alt="image" src="https://github.com/user-attachments/assets/ef9e361c-5499-4620-84b8-ce340283c13a" />|
-
+![Overview](IPL_Dashbord_result_images/ipl_data_2008-2025.png)
 
 ---
 
