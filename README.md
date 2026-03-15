@@ -54,15 +54,14 @@ https://www.kaggle.com/code/arbazkhan971/indian-premier-league-analysis-2008-202
 ---
 
 ## Project Files
-'''bash
+```bash
 IPL-Analytics-PowerBI
 │
 ├── IPL_Analytics_Dashboard.pbix
 ├── Dashboard_Screenshot.png
 ├── IPL_Project_Presentation.pptx
 └── README.md
-'''
-
+```
 ---
 
 ## Key Insights
